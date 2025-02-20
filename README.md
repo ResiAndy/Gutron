@@ -8,6 +8,6 @@ Technology: Flutter
 
 Language: English
 
-Demo:
+Demo: https://youtu.be/vh1XTNWftk8
 
-Pitch:
+Pitch: https://www.youtube.com/shorts/68FC0ZLw3dc
