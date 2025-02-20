@@ -6,7 +6,7 @@ High-school: Colegiul National Cantemir Voda, Bucuresti
 
 Technology: Flutter
 
-Language: English
+Language: Business Plan (English), Pitch + Demo (English)
 
 Demo: https://youtu.be/vZnXJpoxOLk
 
